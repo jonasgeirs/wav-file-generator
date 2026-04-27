@@ -41,9 +41,9 @@ Generate audio from `baunir_lose.txt`:
 ./wav_generator baunir_lose.txt
 ```
 
-This creates `wav/baunir_lose.wav` - a simple melody you can play in any audio player.
+This creates `wav/baunir_lose.wav` - a simple melody you can play in any audio player.  
 
-[Play baunir_lose.wav](https://raw.githubusercontent.com/jonasgeirs/wav-file-generator/music/baunir_lose.wav)
+Use an online wav file player to listen to the generated audio file or alternatively, play it in with VSCode's built-in media player or another IDE if it allows it.
 
 ## Input File Format
 

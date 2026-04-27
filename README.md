@@ -16,6 +16,13 @@ A simple C++ program that generates WAV audio files from text-based music notati
 
 ## Build Instructions
 
+Clone the repository:
+
+```bash
+git clone https://github.com/jonasgeirsson/wav-file-generator
+cd wav-file-generator
+```
+
 Compile the program using g++:
 
 ```bash

@@ -43,6 +43,11 @@ Generate audio from `baunir_lose.txt`:
 
 This creates `wav/baunir_lose.wav` - a simple melody you can play in any audio player.
 
+<audio controls>
+  <source src="music/baunir_lose.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
 ## Input File Format
 
 Input files are plain text with the following structure:
